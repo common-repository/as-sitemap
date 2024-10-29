@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Skin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-06 15:05+0200\n"
+"PO-Revision-Date: 2016-10-06 15:06+0200\n"
+"Last-Translator: Inouit <dev@dev.inouit.com>\n"
+"Language-Team: Inouit <dev@dev.inouit.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2;__;_\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Sitemap.php:61
+msgid "Timber must be installed to use AS Sitemap plugin"
+msgstr ""
+"L’extension Timber doit être installée pour pouvoir utiliser AS Sitemap"
+
+#: Sitemap.php:101
+msgid "Sitemap"
+msgstr "Plan de site"
+
+#: views/Backend/meta_boxes_page_exclude.twig:2
+msgid "Exclude this page from sitemap"
+msgstr "Ne pas inclure dans le plan de site"
+
+#~ msgid "Catégorie : "
+#~ msgstr "Category: "
+
+#~ msgid "Service"
+#~ msgstr "Department"
+
+#~ msgid "Filiale"
+#~ msgstr "Subsidiary"
+
+#~ msgid "Mots-clés"
+#~ msgstr "Keywords"
+
+#~ msgid "Mettre à jour mon profil"
+#~ msgstr "Update your profile"
+
+#~ msgid "Annuaire des filiales"
+#~ msgstr "Subsidiaries directory"
+
+#~ msgid "\"Passer le tutoriel\""
+#~ msgstr "\"Skip the tutorial\""
+
+#~ msgid "\"Suivant →\""
+#~ msgstr "\"Next →\""
+
+#~ msgid "Implantation :"
+#~ msgstr "Location:"
+
+#~ msgid "Filiale :"
+#~ msgstr "Subsidiary:"
+
+#~ msgid "Auteur"
+#~ msgstr "Author"
+
+#~ msgid "La parole est à vous"
+#~ msgstr "The floor is yours"
+
+#~ msgid "Écrire un commentaire..."
+#~ msgstr "Write a comment…"
+
+#~ msgid ""
+#~ "Il n'y a pour le moment aucun commentaire, n'hésitez pas à donner votre "
+#~ "avis en postant le premier commentaire !"
+#~ msgstr ""
+#~ "There are currently no comments , feel free to review by posting the "
+#~ "first comment !"
+
+#~ msgid "commentaires"
+#~ msgstr "comments"
+
+#~ msgid ""
+#~ "En poursuivant votre navigation sur ce site, vous acceptez l’utilisation "
+#~ "de cookies."
+#~ msgstr ""
+#~ "By continuing your visit to this site, you accept the use of cookies ."
+
+#~ msgid "En savoir plus"
+#~ msgstr "More"
+
+#~ msgid "Annuaire people"
+#~ msgstr "People directory"
+
+#~ msgid "Annuaire filiales"
+#~ msgstr "Subsidiaries directory"
+
+#~ msgid "Offres d'emploi"
+#~ msgstr "Job offers"
+
+#~ msgid "À LA UNE"
+#~ msgstr "ALL ARTICLES"
+
+#~ msgid "Mes favoris"
+#~ msgstr "My bookmarks"
+
+#~ msgid "Mon profil"
+#~ msgstr "Profile"
+
+#~ msgid "Déconnexion"
+#~ msgstr "Logout"
+
+#~ msgid "Retour"
+#~ msgstr "Back"
+
+#~ msgid "Rechercher"
+#~ msgstr "Search"
+
+#~ msgid "Précédents posts"
+#~ msgstr "previous posts"
+
+#~ msgid "Posts suivants"
+#~ msgstr "Next posts"
+
+#~ msgid "Ressources"
+#~ msgstr "Resources"
+
+#~ msgid "Rechercher une filiale"
+#~ msgstr "Search for subsidiaries"
+
+#~ msgid "Tous les types"
+#~ msgstr "All types"
+
+#~ msgid "Toutes les zones"
+#~ msgstr "All zones"
+
+#~ msgid "Rechercher un collaborateur"
+#~ msgstr "Search for employees"
+
+#~ msgid "Tous les services"
+#~ msgstr "All departments"
+
+#~ msgid "Toutes les filiales"
+#~ msgstr "All subsidiaries"
+
+#~ msgid "Recherche"
+#~ msgstr "Search"
+
+#~ msgid "Aucun favoris"
+#~ msgstr "No bookmark"
+
+#~ msgid "Chercher une filiale"
+#~ msgstr "Search for subsidiaries"
+
+#~ msgid "Aucun résultat ne correspond à vos critères de recherche."
+#~ msgstr "No result found for your search"
+
+#~ msgid "Voir toutes les infos filiales et toutes ses implantations"
+#~ msgstr "See all the subsidiary’s informations and locations"
+
+#~ msgid "Chercher un collaborateur"
+#~ msgstr "Search for employees"
+
+#~ msgid "Annuaire des filiales et implantations"
+#~ msgstr "Subsidiaries and locations directory"
+
+#~ msgid "General Manager"
+#~ msgstr "General Manager"
+
+#~ msgid "Année d'intégration de la filiale"
+#~ msgstr "Subsidiary's integration year"
+
+#~ msgid "Nombre d'employés"
+#~ msgstr "Number of employees"
+
+#~ msgid "Année d'intégration"
+#~ msgstr "Year of integration in group"
+
+#~ msgid "Nombre d'employé"
+#~ msgstr "Number of employees"
+
+#~ msgid "Year of integration in group"
+#~ msgstr "Year of integration in group"
+
+#~ msgid "Number of employees"
+#~ msgstr "Number of employees"
+
+#~ msgid "Catégories"
+#~ msgstr "C"
