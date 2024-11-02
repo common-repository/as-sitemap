@@ -47,7 +47,7 @@ Not for the moment ;-)
 == Changelog ==
 
 = 0.2.2 =
-* Tested and compatible with Wordpress 4.7
+* Tested with WordPress 4.7
 * Fix warning when activate plugin
 
 = 0.2.1 =
